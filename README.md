@@ -5,3 +5,4 @@ A 2D arcade implementation of the legendary classic, featuring custom physics, s
 No real plumbers were harmed during the development of this game :)
 
 📄 **Technical Documentation:** [Read the Mario Design Report (PDF)](report/mario_report.pdf)
+> 💡 *Trouble viewing the file? [Click here to download the PDF directly](https://github.com/user-attachments/files/34288504/mario_report.pdf).*
